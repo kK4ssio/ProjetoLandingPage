@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(205, 205, 205);
+
+}
+
+.LogoTop {
+    background-color: black;
+    padding: 18px;
+    color: white;
+
+}
+
+.tittop {
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+
+}
+
+.DetalheTop {
+    color: white;
+    background-color: rgb(46, 46, 46);
+    padding: 07px;
+    text-align: center;
+}
+
+
+.Conteudos1 {
+    margin: 70px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;   
+    box-shadow: 7px 7px 7px rgb(235, 235, 235);
+    text-align:center ;
+  
+  
+
+}
+
+.fotos1 {
+    height: 100%;
+    width: 70%;
+    border-radius: 20px;
+    align-items: center;
+    border: 6px solid rgb(255, 255, 255);
+    box-shadow: 7px 7px 7px rgb(192, 192, 192);
+}
+
+.Conteudos2 {
+    margin: 70px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;   
+    box-shadow: 7px 7px 7px rgb(235, 235, 235);
+    text-align:center ;
+}
+
+.Conteudos3 {
+    margin: 70px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;  
+    box-shadow: 7px 7px 7px rgb(235, 235, 235);
+    text-align:center ;
+}
+
+.Conteudos4 {
+    margin: 70px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px rgb(235, 235, 235);
+    text-align:center ;
+}
+
+.titulos {
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+
+}
+
+
+.fim {
+    background-color: black;
+    padding: 18px;
+    color: white;
+
+}
+
+.direito {
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+
+.face {
+   
+    height: 2cm;
+
+}
+
+.watts{
+    text-align: right;  
+}
+.zap{
+    height: 5cm;   
+}
+
+
+.insta {
+    
+    height: 2.2cm;
+
+}
+
+.textos {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.textos2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: left;
+
+}
